@@ -1,0 +1,147 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Naxxramas Adventure": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Naxxramas Class Challenges": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Naxxramas Heroic": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Blackrock Mountain Adventure": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Blackrock Mountain Class Challenges": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Blackrock Mountain Heroic": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "League of Explorers Adventure": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "League of Explorers Class Challenges": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "League of Explorers Heroic": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Karazhan Adventure": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Karazhan Class Challenges": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Karazhan Heroic": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "The Frozen Throne Adventure": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Kobolds and Catacombs Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Witchwood Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Boomsday Project Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Rastakhan's Rumble Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  " Dalaran Heist Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Dalaran Heist Heroic": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Tombs of Terror Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Tombs of Terror Heroic": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Galakrond's Awakening Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Galakrond's Awakening Heroic": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Ashes of Outland Prologue": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Ashes of Outland Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Ashes of Outland Challenges": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Book of Heroes Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Book of Mercenaries Adventure": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Lich King Prologue": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Practice Adventure": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Practice Expert": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Standard": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Wild": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  },
+  "Arena": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Battlegrounds": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Tavern Brawl": {
+    "connects_to": [],
+    "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|)"
+  }
+}

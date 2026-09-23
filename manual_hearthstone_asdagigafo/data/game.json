@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Hearthstone",
+  "creator": "asdagigafo",
+  "filler_item_name": "Well met!",
+  "starting_items": []
+}

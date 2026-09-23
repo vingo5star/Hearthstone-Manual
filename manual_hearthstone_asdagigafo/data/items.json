@@ -1,0 +1,1688 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Naxxramas Adventure",
+      "category": [
+        "Constructed Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Naxxramas Class Challenges",
+      "category": [
+        "Class Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Blackrock Mountain Adventure",
+      "category": [
+        "Constructed Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Class Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "League of Explorers Adventure",
+      "category": [
+        "Constructed Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Karazhan Adventure",
+      "category": [
+        "Constructed Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Karazhan Class Challenges",
+      "category": [
+        "Class Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Frozen Throne Adventure",
+      "category": [
+        "Constructed Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Kobolds & Catacombs Adventure",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "The Witchwood Adventure",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Puzzles Lethal",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Puzzles Mirror",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Puzzles Board Clear",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Puzzles Survival",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Puzzles The Secret Lab",
+      "category": [
+        "Expert Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Rastakhan's Rumble Adventure",
+      "category": [
+        "Fake Solo Adventure"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Dalaran Heist Adventure",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Tombs of Terror Adventure",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Galakrond's Awakening Adventure",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Ashes of Outland Prologue",
+      "category": [
+        "Adventure Prologue"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Ashes of Outland Adventure",
+      "category": [
+        "Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Lich King Prologue",
+      "category": [
+        "Adventure Prologue"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Practice",
+      "category": [
+        "Constructed Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Practice Expert",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Ashes of Outland Challenges",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Galakrond's Awakening Heroic",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Tombs of Terror Heroic",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Dalaran Heist Heroic",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Karazhan Heroic",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "League of Explorers Heroic",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Blackrock Mountain Heroic",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Naxxramas Heroic",
+      "category": [
+        "Heroic Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Standard Mode",
+      "category": [
+        "Mode"
+      ],
+      "progression_skip_balancing": false,
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wild Mode",
+      "category": [
+        "Mode"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Hello Emote",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Well Played Emote",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Thank You Emote",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Oops Emote",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Threaten Emote",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Wow Emote",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Death Knight Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Demon Hunter Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Druid Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Hunter Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Mage Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Paladin Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Priest Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Rogue Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Shaman Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Warlock Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Warrior Class",
+      "category": [
+        "Class"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Core Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Core Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Core Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Core Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Lost City Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Lost City Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Lost City Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Lost City Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Emerald Dream Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Emerald Dream Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Emerald Dream Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Emerald Dream Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Beyond Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Dark Beyond Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Dark Beyond Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Dark Beyond Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Paradise Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Paradise Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Paradise Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Paradise Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Whizbang's Workshop Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Whizbang's Workshop Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Whizbang's Workshop Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Whizbang's Workshop Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Event Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Caverns of Time Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Caverns of Time Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Caverns of Time Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Caverns of Time Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Badlands Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Badlands Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Badlands Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Badlands Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Titans Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Titans Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Titans Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Titans Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Festival Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Festival Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Festival Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Festival Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Lich King Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Lich King Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Lich King Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Lich King Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Path of Arthas Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Castle Nathria Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Castle Nathria Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Castle Nathria Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Castle Nathria Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Sunken City Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Sunken City Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Sunken City Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Sunken City Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Alterac Valley Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Alterac Valley Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Alterac Valley Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Alterac Valley Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Stormwind Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Stormwind Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Stormwind Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Stormwind Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Barrens Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Barrens Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Barrens Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Barrens Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Darkmoon Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Darkmoon Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Darkmoon Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Darkmoon Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Scholomance Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Scholomance Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Scholomance Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Scholomance Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Outland Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Outlands Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Outlands Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Outlands Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Initiate Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Descent of Dragons Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Descent of Dragons Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Descent of Dragons Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Descent of Dragons Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Uldum Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Uldum Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Uldum Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Uldum Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rise of Shadows Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rise of Shadows Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rise of Shadows Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rise of Shadows Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rumble Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rumble Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rumble Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Rumble Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Boomsday Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Witchwood Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Witchwood Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Witchwood Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Witchwood Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Kobolds Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Kobolds Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Kobolds Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Kobolds Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Frozen Throne Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Frozen Throne Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Frozen Throne Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Frozen Throne Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Un'Goro Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Un'Goro Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Un'Goro Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Un'Goro Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Gadgetzan Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Gadgetzan Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Gadgetzan Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Gadgetzan Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Karazhan Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Old Gods Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Old Gods Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Old Gods Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Old Gods Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "League of Explorers Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Grand Tournament Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Grand Tournament Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Grand Tournament Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Grand Tournament Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Blackrock Mountain Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Goblins vs Gnomes Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Goblins vs Gnomes Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Goblins vs Gnomes Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Goblins vs Gnomes Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Naxxramas Cards",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Legacy Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Legacy Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Legacy Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "Legacy Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": false
+    },
+    {
+      "count": 1,
+      "name": "League of Explorers Class Challenges",
+      "category": [
+        "Class Solo Adventure"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Battlegrounds Mode",
+      "category": [
+        "Mode"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Mercenaries",
+      "category": [],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "Twist",
+      "category": [],
+      "trap": true
+    },
+    {
+      "count": "10",
+      "name": "Concede Trap!",
+      "category": [],
+      "trap": true
+    },
+    {
+      "count": 1,
+      "name": "BGs Hero 1",
+      "category": [
+        "Battlegrounds"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "BGs Hero 2",
+      "category": [
+        "Battlegrounds"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "BGs Hero 3",
+      "category": [
+        "Battlegrounds"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "BGs Hero 4",
+      "category": [
+        "Battlegrounds"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Timeways Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Timeways Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Timeways Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Timeways Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Cataclysm Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Cataclysm Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Cataclysm Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Cataclysm Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Violet Hold Commons",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Violet Hold Rares",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Violet Hold Epics",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Violet Hold Legendaries",
+      "category": [
+        "Cards"
+      ],
+      "progression_skip_balancing": true
+    }
+  ]
+}

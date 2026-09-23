@@ -1,0 +1,3006 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|",
+      "name": "Defeat Anub'Rekhan",
+      "region": "Naxxramas Adventure"
+    },
+    {
+      "name": "Defeat Faerlina",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Maexxna",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Noth",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Heigan",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Loatheb",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Razuvious",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Gothik",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Four Horsemen",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Patchwerk",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Grobbulus",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Gluth",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Thaddius",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Sapphiron",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Defeat Kel'Thuzad",
+      "region": "Naxxramas Adventure",
+      "category": [
+        "Naxxramas Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Adventure|"
+    },
+    {
+      "name": "Druid vs Faerlina",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Druid Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Rogue vs Maexxna",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Rogue Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Mage vs Heigan",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Mage Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Hunter vs Loatheb",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Hunter Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Shaman vs Gothik",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Shaman Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Warlock vs Four Horsemen",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Warlock Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Warrior vs Grobbulus",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Warrior Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Priest vs Thaddius",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Priest Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Paladin vs Kel'Thuzad",
+      "region": "Naxxramas Class Challenges",
+      "category": [
+        "Naxxramas Class Challenges"
+      ],
+      "requires": "|Paladin Class| AND |Naxxramas Class Challenges|"
+    },
+    {
+      "name": "Heroic Anub'Rekhan",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Faerlina",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Maexxna",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Noth",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Heigan",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Loatheb",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Razuvious",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Gothik",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Four Horsemen",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Patchwerk",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Grobbulus",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Gluth",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Thaddius",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Sapphiron",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Heroic Kel'Thuzad",
+      "region": "Naxxramas Heroic",
+      "category": [
+        "Naxxramas Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Naxxramas Heroic|"
+    },
+    {
+      "name": "Defeat Grim Guzzler",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Dark Iron Arena",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Thaurissan",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Garr",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Baron Geddon",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Ragnaros",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Omokk",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Drakkisath",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Rend Blackhand",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Razorgore",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Vaelastrasz",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Chromaggus",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Nefarius",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Omnotron",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Maloriak",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Atramedes",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Defeat Nefarian",
+      "region": "Blackrock Mountain Adventure",
+      "category": [
+        "Blackrock Mountain Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Adventure|"
+    },
+    {
+      "name": "Hunter vs Grim Guzzler",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Hunter Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Mage vs Dark Iron Arena",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Mage Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Warrior vs Garr",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Warrior Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Shaman vs Baron Geddon",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Shaman Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Priest vs Drakkisath",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Priest Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Druid vs Rend Blackhand",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Druid Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Warlock vs Razorgore",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Warlock Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Rogue vs Vaelastrasz",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Rogue Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Paladin vs Omnotron",
+      "region": "Blackrock Mountain Class Challenges",
+      "category": [
+        "Blackrock Mountain Class Challenges"
+      ],
+      "requires": "|Paladin Class| AND |Blackrock Mountain Class Challenges|"
+    },
+    {
+      "name": "Heroic Grim Guzzler",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Dark Iron Arena",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Thaurissan",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Garr",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Baron Geddon",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Ragnaros",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Omokk",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Drakkisath",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Rend Blackhand",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Razorgore",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Vaelastrasz",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Chromaggus",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Nefarius",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Omnotron",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Maloriak",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Atramedes",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Heroic Nefarian",
+      "region": "Blackrock Mountain Heroic",
+      "category": [
+        "Blackrock Mountain Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Blackrock Mountain Heroic|"
+    },
+    {
+      "name": "Defeat Zinaar",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Phaerix",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Temple Escape",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Scarvash",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Mine Cart Rush",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Archaedas",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Slitherspear",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Giantfin",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Naz'jar",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Skelesaurus Hex",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Steel Sentinel",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Arch-Thief Rafaam",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Defeat Rafaam Unleashed",
+      "region": "League of Explorers Adventure",
+      "category": [
+        "League of Explorers Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Adventure|"
+    },
+    {
+      "name": "Warrior vs Zinaar",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Warrior Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Warlock vs Phaerix",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Warlock Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Druid vs Scarvash",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Druid Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Paladin vs Archeadas",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Paladin Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Hunter vs Slitherspear",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Hunter Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Shaman vs Giantfin",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Shaman Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Priest vs Naz'jar",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Priest Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Rogue vs Skelesaurus Hex",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Rogue Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Mage vs Steel Sentinel",
+      "region": "League of Explorers Class Challenges",
+      "category": [
+        "League of Explorers Class Challenges"
+      ],
+      "requires": "|Mage Class| AND |League of Explorers Class Challenges|"
+    },
+    {
+      "name": "Heroic Zinaar",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Phaerix",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Temple Escape",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Scarvash",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Mine Cart Rush",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Archaedas",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Slitherspear",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Giantfin",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Naz'jar",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Skelesaurus Hex",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Steel Sentinel",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Arch-Thief Rafaam",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Heroic Rafaam Unleashed",
+      "region": "League of Explorers Heroic",
+      "category": [
+        "League of Explorers Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |League of Explorers Heroic|"
+    },
+    {
+      "name": "Defeat Shade of Aran",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Netherspite",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Free Medivh!",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Curator",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Nightbane",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Illhoof",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Julianne",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Big Bad Wolf",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat The Crone",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Silverware Golem",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat Magic Mirror",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Adventure|"
+    },
+    {
+      "name": "Play Chess!",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "|Karazhan Adventure|"
+    },
+    {
+      "name": "Defeat The Unwanted Guest",
+      "region": "Karazhan Adventure",
+      "category": [
+        "Karazhan Adventure"
+      ],
+      "requires": "|Karazhan Adventure|"
+    },
+    {
+      "name": "Priest vs Silverware Golem",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Priest Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Shaman vs Magic Mirror",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Shaman Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Warlock vs Julianne",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Warlock Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Paladin vs Big Bad Wolf",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Paladin Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Hunter vs Curator",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Hunter Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Mage vs Nightbane",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Mage Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Warrior vs Illhoof",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Warrior Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Rogue vs Shade of Aran",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Rogue Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Druid vs Netherspite",
+      "region": "Karazhan Class Challenges",
+      "category": [
+        "Karazhan Class Challenges"
+      ],
+      "requires": "|Druid Class| AND |Karazhan Class Challenges|"
+    },
+    {
+      "name": "Heroic Shade of Aran",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Netherspite",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Free Medivh",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Curator",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Nightbane",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Illhoof",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Julianne",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Big Bad Wolf",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic The Crone",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Silverware Golem",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Magic Mirror",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Chess",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "|Karazhan Heroic|"
+    },
+    {
+      "name": "Heroic Malchezaar",
+      "region": "Karazhan Heroic",
+      "category": [
+        "Karazhan Heroic"
+      ],
+      "requires": "|Karazhan Heroic|"
+    },
+    {
+      "name": "Complete Frozen Throne Prologue",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "|Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat Marrowgar",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat Saurfang",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat Deathwhisper",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat Lana'thel",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat Putricide",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat Singragosa",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat The Lich King!",
+      "region": "The Frozen Throne Adventure",
+      "category": [
+        "Frozen Throne Adventure"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Frozen Throne Adventure|"
+    },
+    {
+      "name": "Defeat Boss 1 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 2 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 3 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 4 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 5 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 6 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 7 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 8 (Kobolds)",
+      "region": "Kobolds and Catacombs Adventure",
+      "category": [
+        "Kobolds & Catacombs Adventure"
+      ],
+      "requires": "|Kobolds & Catacombs Adventure|"
+    },
+    {
+      "name": "Defeat Boss 1 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Boss 2 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Boss 3 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Boss 4 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Boss 5 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Boss 6 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Boss 7 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Boss 8 (Witchwood)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Hagatha (Reward 1)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Hagatha (Reward 2)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Hagatha (Reward 3)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Defeat Hagatha (Reward 4)",
+      "region": "Witchwood Adventure",
+      "category": [
+        "Witchwood Adventure"
+      ],
+      "requires": "|The Witchwood Adventure|"
+    },
+    {
+      "name": "Solve Pollark's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Lethal Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Lethal|"
+    },
+    {
+      "name": "Solve Myra Rotspring's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Lethal Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Lethal|"
+    },
+    {
+      "name": "Solve Lil' Stormy's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Lethal Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Lethal|"
+    },
+    {
+      "name": "Solve Electra Stormsurge's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Lethal Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Lethal|"
+    },
+    {
+      "name": "Solve Test Subject 362's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Mirror Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Mirror|"
+    },
+    {
+      "name": "Solve Arwyn's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Mirror Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Mirror|"
+    },
+    {
+      "name": "Solve Luna's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Mirror Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Mirror|"
+    },
+    {
+      "name": "Solve Zerek's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Mirror Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Mirror|"
+    },
+    {
+      "name": "Solve Dexter's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Board Clear Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Board Clear|"
+    },
+    {
+      "name": "Solve Floop's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Board Clear Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Board Clear|"
+    },
+    {
+      "name": "Solve Draan's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Board Clear Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Board Clear|"
+    },
+    {
+      "name": "Solve Dr. Morrigan's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Board Clear Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Board Clear|"
+    },
+    {
+      "name": "Solve Breena's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Survival Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Survival|"
+    },
+    {
+      "name": "Solve Flark's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Survival Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Survival|"
+    },
+    {
+      "name": "Solve Glow-Tron 2000's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Survival Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Survival|"
+    },
+    {
+      "name": "Solve Kangor's Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Survival Puzzles"
+      ],
+      "requires": "|Boomsday Puzzles Survival|"
+    },
+    {
+      "name": "Secret Lab Lethal Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Secret Lab"
+      ],
+      "requires": "|Boomsday Puzzles The Secret Lab|"
+    },
+    {
+      "name": "Secret Lab Mirror Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Secret Lab"
+      ],
+      "requires": "|Boomsday Puzzles The Secret Lab|"
+    },
+    {
+      "name": "Secret Lab Clear Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Secret Lab"
+      ],
+      "requires": "|Boomsday Puzzles The Secret Lab|"
+    },
+    {
+      "name": "Secret Lab Survive Puzzles",
+      "region": "Boomsday Project Adventure",
+      "category": [
+        "Boomsday Secret Lab"
+      ],
+      "requires": "|Boomsday Puzzles The Secret Lab|"
+    },
+    {
+      "name": "Dalaran Chapter 1 (Reward 1)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 1 (Reward 2)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 2 (Reward 1)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 2 (Reward 2)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 3 (Reward 1)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 3 (Reward 2)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 4 (Reward 1)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 4 (Reward 2)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 5 (Reward 1)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 5 (Reward 2)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 5 (Reward 3)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Dalaran Chapter 5 (Reward 4)",
+      "region": " Dalaran Heist Adventure",
+      "category": [
+        "Dalaran Heist Adventure"
+      ],
+      "requires": "|Dalaran Heist Adventure|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 1 (Reward 1)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 1 (Reward 2)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 2 (Reward 1)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "region": "Dalaran Heist Heroic",
+      "name": "Heroic Dalaran Chapter 2 (Reward 2)",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 3 (Reward 1)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 3 (Reward 2)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 4 (Reward 1)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "region": "Dalaran Heist Heroic",
+      "name": "Heroic Dalaran Chapter 4 (Reward 2)",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 5 (Reward 1)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 5 (Reward 2)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "name": "Heroic Dalaran Chapter 5 (Reward 3)",
+      "region": "Dalaran Heist Heroic",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "region": "Dalaran Heist Heroic",
+      "name": "Heroic Dalaran Chapter 5 (Reward 4)",
+      "category": [
+        "Dalaran Heist Heroic"
+      ],
+      "requires": "|Dalaran Heist Heroic|"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 1 (Reward 1)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 1 (Reward 2)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 2 (Reward 1)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 2 (Reward 2)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 3 (Reward 1)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 4 (Reward 1)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 4 (Reward 2)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 5 (Reward 1)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 5 (Reward 2)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 5 (Reward 3)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|",
+      "name": "ToT Chapter 5 (Reward 4)",
+      "region": "Tombs of Terror Adventure"
+    },
+    {
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|",
+      "name": "Heroic ToT Chapter 1 (Reward 1)",
+      "region": "Tombs of Terror Heroic"
+    },
+    {
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|",
+      "name": "Heroic ToT Chapter 1 (Reward 2)",
+      "region": "Tombs of Terror Heroic"
+    },
+    {
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|",
+      "name": "Heroic ToT Chapter 2 (Reward 1)",
+      "region": "Tombs of Terror Heroic"
+    },
+    {
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|",
+      "name": "Heroic ToT Chapter 2 (Reward 2)",
+      "region": "Tombs of Terror Heroic"
+    },
+    {
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|",
+      "name": "Heroic ToT Chapter 3 (Reward 1)",
+      "region": "Tombs of Terror Heroic"
+    },
+    {
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|",
+      "name": "Heroic ToT Chapter 3 (Reward 2)",
+      "region": "Tombs of Terror Heroic"
+    },
+    {
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|",
+      "name": "Heroic ToT Chapter 4 (Reward 1)",
+      "region": "Tombs of Terror Heroic"
+    },
+    {
+      "name": "Heroic ToT Chapter 4 (Reward 2)",
+      "region": "Tombs of Terror Heroic",
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|"
+    },
+    {
+      "name": "Heroic ToT Chapter 5 (Reward 1)",
+      "region": "Tombs of Terror Heroic",
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|"
+    },
+    {
+      "name": "Heroic ToT Chapter 5 (Reward 2)",
+      "region": "Tombs of Terror Heroic",
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|"
+    },
+    {
+      "name": "Heroic ToT Chapter 5 (Reward 3)",
+      "region": "Tombs of Terror Heroic",
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|"
+    },
+    {
+      "name": "ToT Heroic Chapter 5 (Reward 4)",
+      "region": "Tombs of Terror Heroic",
+      "category": [
+        "Tombs of Terror Heroic"
+      ],
+      "requires": "|Tombs of Terror Heroic|"
+    },
+    {
+      "name": "Defeat Finley",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Cheenvaala",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Reno",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Askaara",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Sr. Explorers",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Nithogg",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Talritha",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat The Wanderer",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Dragonflights",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat George and Karl",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Amazing Reno",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Galakrond",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Dr. Boom",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Avalanchan",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Kriziki",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "region": "Galakrond's Awakening Adventure",
+      "name": "Defeat Lazul",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Dawnshatter",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Hagatha (Galakrond)",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Rotwing",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Skruk",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat The Slipstream",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat George",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "region": "Galakrond's Awakening Adventure",
+      "name": "Defeat Waxrider Togwaggle",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Defeat Rafaam, Prime Evil",
+      "region": "Galakrond's Awakening Adventure",
+      "category": [
+        "Galakrond's Awakening Adventure"
+      ],
+      "requires": "|Galakrond's Awakening Adventure|"
+    },
+    {
+      "name": "Heroic Sir Finley",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Chenvaala",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Reno",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Askaara",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Nithogg",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Talritha",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Wanderer",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Dragonflights",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic George and Karl",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Amazing Reno",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Galakrond",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Dr. Boom",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Avalanchan",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Kriziki",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Lazul",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Dawnshatter",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Hagatha",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Rotwing",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Skruk",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Slipstream",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic George",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Toggwaggle",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Heroic Rafaam, Prime Evil",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "Complete Ashes of Outland Prologue",
+      "region": "Ashes of Outland Prologue",
+      "category": [
+        "Ashes of Outland Prologue"
+      ],
+      "requires": "|Ashes of Outland Prologue|"
+    },
+    {
+      "name": "Heroic Sr. Explorers",
+      "region": "Galakrond's Awakening Heroic",
+      "category": [
+        "Galakrond's Awakening Heroic"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Galakrond's Awakening Heroic|"
+    },
+    {
+      "name": "AoO Chapter 1",
+      "region": "Ashes of Outland Adventure",
+      "category": [
+        "Ashes of Outland Adventure"
+      ],
+      "requires": "|Ashes of Outland Adventure|"
+    },
+    {
+      "name": "AoO Chapter 2",
+      "region": "Ashes of Outland Adventure",
+      "category": [
+        "Ashes of Outland Adventure"
+      ],
+      "requires": "|Ashes of Outland Adventure|"
+    },
+    {
+      "name": "AoO Chapter 3",
+      "region": "Ashes of Outland Adventure",
+      "category": [
+        "Ashes of Outland Adventure"
+      ],
+      "requires": "|Ashes of Outland Adventure|"
+    },
+    {
+      "name": "AoO Chapter 4",
+      "region": "Ashes of Outland Adventure",
+      "category": [
+        "Ashes of Outland Adventure"
+      ],
+      "requires": "|Ashes of Outland Adventure|"
+    },
+    {
+      "name": "AoO Chapter 5 (Reward 1)",
+      "region": "Ashes of Outland Adventure",
+      "category": [
+        "Ashes of Outland Adventure"
+      ],
+      "requires": "|Ashes of Outland Adventure|"
+    },
+    {
+      "name": "AoO Chapter 5 (Reward 2)",
+      "region": "Ashes of Outland Adventure",
+      "category": [
+        "Ashes of Outland Adventure"
+      ],
+      "requires": "|Ashes of Outland Adventure|"
+    },
+    {
+      "name": "AoO Chapter 5 (Reward 3)",
+      "region": "Ashes of Outland Adventure",
+      "category": [
+        "Ashes of Outland Adventure"
+      ],
+      "requires": "|Ashes of Outland Adventure|"
+    },
+    {
+      "name": "Defeat Kazzak",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Gruul",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Magtheridon",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Supremus",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Teron Gorefiend",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Shahraz",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Vashj",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Kael'thas Sunstrider",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Defeat Illidan Stormrage",
+      "region": "Ashes of Outland Challenges",
+      "category": [
+        "Ashes of Outland Challenges"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Ashes of Outland Challenges|"
+    },
+    {
+      "name": "Complete Lich King Prologue",
+      "region": "Lich King Prologue",
+      "category": [
+        "Lich King Prologue"
+      ],
+      "requires": "|Lich King Prologue|"
+    },
+    {
+      "name": "Defeat Practice Death Knight",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Demon Hunter",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Druid",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Hunter",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Mage",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Paladin",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Priest",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Rogue",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Shaman",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Warlock",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Practice Warrior",
+      "region": "Practice Adventure",
+      "category": [
+        "Practice"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice|"
+    },
+    {
+      "name": "Defeat Expert Death Knight",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Demon Hunter",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Druid",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Hunter",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Mage",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Paladin",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Priest",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Rogue",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Shaman",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Warlock",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Defeat Expert Warrior",
+      "region": "Practice Expert",
+      "category": [
+        "Practice Expert"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Practice Expert|"
+    },
+    {
+      "name": "Complete a Standard Game 1",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 2",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 3",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 4",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 5",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 6",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 7",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 8",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 9",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Standard Game 10",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Win a Standard Game 1",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Win a Standard Game 2",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Win a Standard Game 3",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Win a Standard Game 4",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Win a Standard Game 5",
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Win 5 Standard Games in a Row",
+      "victory": true,
+      "region": "Standard",
+      "category": [
+        "Standard Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Standard Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 1",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 2",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 3",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 4",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 5",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 6",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 7",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 8",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 9",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete a Wild Game 10",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Win a Wild Game 1",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Win a Wild Game 2",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Win a Wild Game 3",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Win a Wild Game 4",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Win a Wild Game 5",
+      "region": "Wild",
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "Complete Battlegrounds Game 1",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Complete Battlegrounds Game 2",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Complete Battlegrounds Game 3",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Top 4 a Battlegrounds Game 1",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Top 4 a Battlegrounds Game 2",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Top 4 a Battlegrounds Game 3",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Win Battlegrounds Game (Reward 1)",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Win Battlegrounds Game (Reward 2)",
+      "category": [
+        "Battlegrounds"
+      ],
+      "requires": "|Battlegrounds Mode| AND (|BGs Hero 1| OR |BGs Hero 2| OR |BGs Hero 3| OR |BGs Hero 4|)"
+    },
+    {
+      "name": "Win 5 Wild Games in a Row",
+      "region": "Wild",
+      "victory": false,
+      "category": [
+        "Wild Ranked"
+      ],
+      "requires": "(|Death Knight Class| OR |Demon Hunter Class| OR |Druid Class| OR |Hunter Class| OR |Mage Class| OR |Paladin Class| OR |Priest Class| OR |Rogue Class| OR |Shaman Class| OR |Warlock Class| OR |Warrior Class|) AND |Wild Mode|"
+    },
+    {
+      "name": "ToT Chapter 3 (Reward 2)",
+      "category": [
+        "Tombs of Terror Adventure"
+      ],
+      "requires": "|Tombs of Terror Adventure|"
+    }
+  ]
+}
